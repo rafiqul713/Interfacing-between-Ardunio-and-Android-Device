@@ -1,0 +1,119 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rafiqul.arduniocontroller.Second_Activity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Send Data"
+            android:id="@+id/editTextSend" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text= "SEND"
+            android:id="@+id/SENDbutton" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 0 ON"
+                    android:textOff="PIN 0 OFF"
+                    android:id="@+id/toggleButton0" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 1 ON"
+                    android:textOff="PIN 1 OFF"
+                    android:id="@+id/toggleButton1" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 2 ON"
+                    android:textOff="PIN 2 OFF"
+                    android:id="@+id/toggleButton2" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 3 ON"
+                    android:textOff="PIN 3 OFF"
+                    android:id="@+id/toggleButton3" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 4 ON"
+                    android:textOff="PIN 4 OFF"
+                    android:id="@+id/toggleButton4" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 5 ON"
+                    android:textOff="PIN 5 OFF"
+                    android:id="@+id/toggleButton5" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 6 ON"
+                    android:textOff="PIN 6 OFF"
+                    android:id="@+id/toggleButton6" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 7 ON"
+                    android:textOff="PIN 7 OFF"
+                    android:id="@+id/toggleButton7" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 8 ON"
+                    android:textOff="PIN 8 OFF"
+                    android:id="@+id/toggleButton8" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 9 ON"
+                    android:textOff="PIN 9 OFF"
+                    android:id="@+id/toggleButton9" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 10 ON"
+                    android:textOff="PIN 10 OFF"
+                    android:id="@+id/toggleButton10" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 11 ON"
+                    android:textOff="PIN 11 OFF"
+                    android:id="@+id/toggleButton11" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 12 ON"
+                    android:textOff="PIN 12 OFF"
+                    android:id="@+id/toggleButton12" />
+                <ToggleButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textOn="PIN 13 ON"
+                    android:textOff="PIN 13 OFF"
+                    android:id="@+id/toggleButton13" />
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

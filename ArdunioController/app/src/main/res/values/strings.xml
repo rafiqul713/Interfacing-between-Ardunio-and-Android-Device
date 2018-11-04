@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArdunioController</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_">Second_Activity</string>
+    <string name="title_activity_device__list">Device_List</string>
+</resources>

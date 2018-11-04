@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/pre-dexed/debug/classes-6aea7e1c704e49fbb4635cf973ced499613803eb.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/pre-dexed/debug/classes-4891440202cd150b4fcf3ffa6fb29131de1bafd5.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/pre-dexed/debug/classes-b5a013d2063cf53e3488ab491f9e99b6a7833014.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/rafiqul/AndroidStudioProjects/ArdunioController/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-fa948360c316867c135d81193d9a721bdc9634bf.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-2f6231fc22ba4599cc22fb34985794163cf4d0b2.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/pre-dexed/debug/classes-6d3a5241689462433070d4abeda89a7bf9bc3b29.jar" />
+    </item>
+    <item
+        jar="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/rafiqul/Documents/Project on Bluetooth Controller/ArdunioController/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-1006869969be4331cebaf8855c2db09d7d453af9.jar" />
+    </item>
+
+</items>
